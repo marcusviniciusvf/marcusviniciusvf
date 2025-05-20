@@ -38,3 +38,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/marcusviniciusvf/marcusviniciusvf/output/snake.svg" alt="Snake animation" />
+
+###
