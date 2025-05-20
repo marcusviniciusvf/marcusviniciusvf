@@ -2,7 +2,9 @@
 
 <!--
 **marcusviniciusvf/marcusviniciusvf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
